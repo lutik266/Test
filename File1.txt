@@ -5,3 +5,5 @@ commit test
 789
 Hello world!
 
+new branch line
+new branch line
